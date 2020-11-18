@@ -1,2 +1,2 @@
-# introareact
-Repositorio de practicas del curso introductorio a react
+# Repositorio de practicas
+
